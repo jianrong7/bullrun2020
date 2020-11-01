@@ -1,4 +1,4 @@
-# Click on FINAL.ipynb to view the project!
+# Click on bullrun2020.ipynb to view the project!
 
 ## Is the recent tech-driven bull run in the stock market justified?
 
