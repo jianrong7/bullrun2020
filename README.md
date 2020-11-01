@@ -1,8 +1,8 @@
-# Is the recent tech-driven bull run in the stock market justified?
-
 # Click on FINAL.ipynb to view the project!
 
-##    Problem Statement
+## Is the recent tech-driven bull run in the stock market justified?
+
+###    Problem Statement
 
 On 23 March 2020, the stock market experienced a 40% crash amidst COVID-19 fears. However, the S&P 500 (the most popular US stock benchmark index) has experienced a significant bull run since then, even breaking All-Time Highs. Upon further research, this bull run has been greatly driven by the technology industry. <b> As such, we will be analysing the top 5 holdings (Apple, Microsoft, Amazon, Facebook and Alphabet) of the S&P 500 to determine whether the changes in their balance sheets justify their increased market capitalisation and the concomitant market rally.</b> Coincidentally, they are also major companies in the technology industry.
 
